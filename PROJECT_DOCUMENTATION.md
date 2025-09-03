@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+This project was about understanding the Git Bash more, becoming familiar with branches, pulls and merges
+The HTML we have done is about specific things we like about Winnipeg
 
 ## Team Members
 
@@ -13,18 +14,18 @@
 
 ## Member Contributions
 
-### Name 1
+### Connor Weitkowitz
 
--Worked on [specific elements] of the webpage.
+-Added section about the The Forks
 
-### Name 2
+### Yupeng Du
 
--Was responsible for [specific tasks], focusing on [specific HTML elements].
+-Added section about the Canadian Museum for Human Rights
 
-### Name 3:
+### Dhawanpreet Kaur
 
 -Handled [specific sections], covering [specific topics or features].
 
-### Name 4
+### Bosco Nkomeje
 
-- Handled section 4 and coving Canadian Human Rights Museum
+-Handled [specific sections], covering [specific topics or features].
