@@ -17,9 +17,9 @@
 
 -Worked on [specific elements] of the webpage.
 
-### Name 2
+### Bosco Nkomeje
 
--Was responsible for [specific tasks], focusing on [specific HTML elements].
+-Was responsible for designing and implementing web page section of princess auto stadium, focusing on HTML elements such as images, videos, headings, and descriptive text to enhance user engagement and visual appeal.
 
 ### Name 3:
 
