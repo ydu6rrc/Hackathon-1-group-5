@@ -32,4 +32,4 @@ The HTML we have done is about specific things we like about Winnipeg
 
 ### Bosco Nkomeje
 
--Handled [specific sections], covering [specific topics or features].
+ Added section about the stadium
