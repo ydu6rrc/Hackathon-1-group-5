@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+This project was about understanding the Git Bash more, becoming familiar with branches, pulls and merges
+The HTML we have done is about specific things we like about Winnipeg
 
 ## Team Members
 
@@ -13,14 +14,22 @@
 
 ## Member Contributions
 
-### Name 1
+### Connor Weitkowitz
 
--Worked on [specific elements] of the webpage.
+-Added section about the The Forks
 
 ### Bosco Nkomeje
 
 -Was responsible for designing and implementing web page section of princess auto stadium, focusing on HTML elements such as images, videos, headings, and descriptive text to enhance user engagement and visual appeal.
 
-### Name 3:
+### Yupeng Du
+
+-Added section about the Canadian Museum for Human Rights
+
+### Dhawanpreet Kaur
+
+-Handled [specific sections], covering [specific topics or features].
+
+### Bosco Nkomeje
 
 -Handled [specific sections], covering [specific topics or features].
