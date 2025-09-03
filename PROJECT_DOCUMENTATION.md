@@ -24,3 +24,7 @@
 ### Name 3:
 
 -Handled [specific sections], covering [specific topics or features].
+
+### Name 4
+
+- Handled section 4 and coving Canadian Human Rights Museum
