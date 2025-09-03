@@ -23,7 +23,7 @@
 
 ### Name 3:
 
--Handled [specific sections], covering [specific topics or features].
+-Dhawnpreet Kaur, I have done 3rd section. It is about downtown Winnipeg area.
 
 ### Name 4
 
