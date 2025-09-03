@@ -28,7 +28,7 @@ The HTML we have done is about specific things we like about Winnipeg
 
 ### Dhawanpreet Kaur
 
--Handled [specific sections], covering [specific topics or features].
+-Dhawnpreet Kaur, I have done 3rd section. It is about downtown Winnipeg area.
 
 ### Bosco Nkomeje
 
